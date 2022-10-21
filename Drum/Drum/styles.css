@@ -6,7 +6,7 @@
 body {
   font-family: 'Arvo', cursive;
   text-align: center;
-  background: url('images/bg-1.jpg'), rgba(0, 0, 0, 0.2);
+  background: url('images/drum.avif'), rgba(0, 0, 0, 0.2);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 120%;
